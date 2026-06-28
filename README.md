@@ -1,4 +1,4 @@
-# Terms of Service — FreelanceReceipt
+# Terms of Service FreelanceReceipt
 
 **Last updated: 2026-06-28**
 **Developer: Alexandre Samson · adp.samson@gmail.com**
